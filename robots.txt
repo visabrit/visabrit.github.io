@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://visabrit.github.io/sitemap.html.gz
+Sitemap: https://visabrit.github.io/app/sitemap.html.gz
+Sitemap: https://visabrit.github.io/assets/sitemap.html.gz
+Sitemap: https://visabrit.github.io/css/sitemap.html.gz
+Sitemap: https://visabrit.github.io/includes/sitemap.html.gz
+Sitemap: https://visabrit.github.io/item/sitemap.html.gz
+Sitemap: https://visabrit.github.io/src/sitemap.html.gz
